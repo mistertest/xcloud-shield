@@ -2,7 +2,8 @@
 
 PROJECTS:
 
-Xcloud Beta unofficial V1
+Xcloud Beta unofficial V1 
+( Version for Nvidia shield TV only for now)
 
 "Xcloud" is the new platform Cloud Gaming of Microsoft Xbox. The official App exist only for Mobile and Smartphone Android for now and is limited at the resolution 720p. 
 
