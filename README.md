@@ -12,7 +12,7 @@ I had the project to enjoy it directly on my box TV : Nvidia shield Pro 2019.
 
 So i decided to code an application for my shield TV for enjoying my games and sharing my app for others tester in the world. 
 
-An official application Android tv will coming from Microsoft but certainly in littles months or years.
+An official application Android tv will coming from Microsoft but certainly in more months or years.
 
 I will uploading others version for supporting others android version and devices. 
 Certainly for "Xiaomi Mi Box", the "Google Nexus Player box" and others popular android tv box.
