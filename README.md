@@ -16,7 +16,7 @@ I have the project to enjoy it directly on my box TV : The Nvidia shield Pro 201
 So i decided to coding an application for my shield TV for enjoying my games of my gamepass ultimate.
 
 An official application from Xbox for Android TV will be coming but certainly in somes years.
-So it was a good idea for working on this project and level up my skills on Android developpement. 
+So it was a good idea and i am excited for working on this project and level up my skills on Android developpement. 
 
 
 
