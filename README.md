@@ -5,7 +5,7 @@ PROJECTS
 
 
 ********************
-  XCLOUD BETA V3
+  XCLOUD BETA V3 
 ********************
 
 Xcloud is the new platform of Cloud Gaming by Microsoft Xbox. 
@@ -15,7 +15,7 @@ I'm a lucky beta tester of the Xcloud Web App for PC: It's exectuted directly fr
 I have the project to enjoy it directly on my box TV : The Nvidia shield Pro 2019.
 So i decided to coding an application for my shield TV for enjoying my games of my gamepass ultimate.
 
-An official application from Xbox for Android tv will be coming but certainly in somes years.
+An official application from Xbox for Android TV will be coming but certainly in somes years.
 So it was a good idea for working on this project and level up my skills on Android developpement. 
 
 
@@ -27,7 +27,7 @@ Supported Devices
 I have a shield TV Pro 2019 and a xiaomi Mi box S.
 
 - All Nvidia shield tv box (2015,2017 to Pro 2019)
-- All Xiaomi Mi box
+- All Xiaomi Mi box TV
 
 
 
