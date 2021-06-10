@@ -39,6 +39,10 @@ Information Version
 
 *Fix and features*
 - Redirect after login to the interface
+- No mouse required
+- No popup validation of cookies required
+- Increase of the performance with accelerated hardware
+- Better web rendering
 
 
 
