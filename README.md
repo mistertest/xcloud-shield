@@ -1,19 +1,44 @@
 # devtest
 
-PROJECTS:
+PROJECTS
+#########
 
-Xcloud Beta unofficial V1
-( Version for Nvidia shield TV only for now)
 
-"Xcloud" is the new platform Cloud Gaming of Microsoft Xbox. The official App exist only for Mobile and Smartphone Android for now and is limited at the resolution 720p. 
+********************
+  XCLOUD BETA V3
+********************
 
-I'm a lucky beta tester of the Xcloud web app (directly from browser) for PC with the full HD resolution (1080p). 
-I had the project to enjoy it directly on my box TV : Nvidia shield Pro 2019.
+Xcloud is the new platform of Cloud Gaming by Microsoft Xbox. 
+The official App, exist only for Smartphone and Tablets Android at the moment,  and this is limited at the resolution 720p. 
 
-So i decided to code an application for my shield TV for enjoying my games and sharing my app for others tester in the world. 
+I'm a lucky beta tester of the Xcloud Web App for PC: It's exectuted directly from the browser  on PC with the full HD resolution (1080p). 
+I have the project to enjoy it directly on my box TV : The Nvidia shield Pro 2019.
+So i decided to coding an application for my shield TV for enjoying my games of my gamepass ultimate.
 
-An official application Android tv will coming from Microsoft but certainly in more months or years.
+An official application from Xbox for Android tv will be coming but certainly in somes years.
+So it was a good idea for working on this project and level up my skills on Android developpement. 
 
-I will uploading others version for supporting others android version and devices. 
-Certainly for "Xiaomi Mi Box", the "Google Nexus Player box" and others popular android tv box.
+
+
+
+Supported Devices
+-------------------
+
+I have a shield TV Pro 2019 and a xiaomi Mi box S.
+
+- All Nvidia shield tv box (2017 to Pro 2019)
+- All Xiaomi Mi box
+
+
+
+Information Version
+---------------------
+
+*Actual version*
+- Xcloud_Beta_V3
+
+*Fix and features*
+- Redirect after login to the interface
+
+
 
