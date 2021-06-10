@@ -66,4 +66,6 @@ FIX AND FEATURES
 - Better web rendering
 
 
+Screenshots
 
+![Xcloud_beta_home_icon](https://raw.githubusercontent.com/mistertest/devtest/master/img/Home_xcloudBeta.png)
