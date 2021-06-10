@@ -62,6 +62,7 @@ FIX AND FEATURES
 - Icon Baner on Home page and menu of Android TV
 - No external browser required, all in fullscreen
 - No long settings just click and play
+- No timeout in time session user
  
 *New Fix Version 3*
 - Redirect after login to the interface
