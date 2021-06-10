@@ -26,7 +26,7 @@ Supported Devices
 
 I have a shield TV Pro 2019 and a xiaomi Mi box S.
 
-- All Nvidia shield tv box (2017 to Pro 2019)
+- All Nvidia shield tv box (2015,2017 to Pro 2019)
 - All Xiaomi Mi box
 
 
