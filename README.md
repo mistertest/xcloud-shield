@@ -37,7 +37,17 @@ Information Version
 *Actual version*
 - Xcloud_Beta_V3
 
-*Fix and features*
+
+FIX AND FEATURES
+---------------------
+
+*Features*
+- Full optimised for Android TV and the shield
+- Icon Baner on Home page and menu of Android TV
+- No external browser required, all in fullscreen
+- No long settings just click and play
+- 
+*New Fix Version 3*
 - Redirect after login to the interface
 - No mouse required
 - No popup validation of cookies required
