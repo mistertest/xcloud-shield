@@ -69,4 +69,13 @@ FIX AND FEATURES
 SCREENSHOTS
 ---------------------
 
+Accessible from Home 
+
 ![Xcloud_beta_home_icon](https://raw.githubusercontent.com/mistertest/devtest/master/img/Home_xcloudBeta.png)
+
+Accessible from Menu
+
+![Xcloud_beta_home_icon](https://raw.githubusercontent.com/mistertest/devtest/master/img/Menu_xcloudBeta.png)
+
+
+
