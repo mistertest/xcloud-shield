@@ -78,4 +78,8 @@ Accessible from Menu
 ![Xcloud_beta_home_icon](https://raw.githubusercontent.com/mistertest/devtest/master/img/Menu_xcloudBeta.png)
 
 
+Interface of Xcloud Beta in Shield TV
+
+![Xcloud_beta_home_icon](https://raw.githubusercontent.com/mistertest/devtest/master/img/Interface_xcloud1.png)
+
 
