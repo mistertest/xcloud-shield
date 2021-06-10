@@ -4,9 +4,9 @@ PROJECTS
 #########
 
 
-********************
-  XCLOUD BETA V3 
-********************
+******************************************************
+  XCLOUD BETA V3 1080p -  FOR ANDROID TV NVIDIA SHIELD
+******************************************************
 
 Xcloud is the new platform of Cloud Gaming by Microsoft Xbox. 
 The official App, exist only for Smartphone and Tablets Android at the moment,  and this is limited at the resolution 720p. 
