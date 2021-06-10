@@ -19,6 +19,9 @@ MY PROJECTS
   XCLOUD BETA V3 1080p UNOFFICIAL -  FOR ANDROID TV NVIDIA SHIELD
 *********************************************************************
 
+
+On "World Premiere", yes i can say that, welcome to my Xcloud Beta for Android TV
+
 ![Xcloud_beta_home_icon](https://raw.githubusercontent.com/mistertest/devtest/master/img/Home_xcloud2.png)
 
 Xcloud is the new platform of Cloud Gaming by Microsoft Xbox. 
