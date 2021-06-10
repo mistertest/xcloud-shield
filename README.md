@@ -87,4 +87,15 @@ Interface of Xcloud Beta in Shield TV
 
 ![Xcloud_beta_home_icon](https://raw.githubusercontent.com/mistertest/devtest/master/img/Interface_xcloud1.png)
 
+![Xcloud_beta_home_icon](https://raw.githubusercontent.com/mistertest/devtest/master/img/Interface2.png)
+
+![Xcloud_beta_home_icon](https://raw.githubusercontent.com/mistertest/devtest/master/img/interface3.png)
+
+The loading before playing in the cloud
+
+![Xcloud_beta_home_icon](https://raw.githubusercontent.com/mistertest/devtest/master/img/Xcloud_loading.png)
+
+
+
+
 
