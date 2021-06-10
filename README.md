@@ -5,6 +5,7 @@ ABOUT ME
 **********
 
 I'm a french Web and Applications Developer, i'm 42 years Old and having my little family. 
+
 I'm a specialist of Web developpement and E-commerce solutions.
 
 I'm passionate about Technology, including Gaming and so the "CLoud Gaming". 
