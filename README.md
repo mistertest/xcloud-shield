@@ -75,6 +75,7 @@ FIX AND FEATURES
 
 *Features*
 - Full optimised for Android TV and the shield
+- Full controller support in interface 
 - Icon Baner on Home page and menu of Android TV
 - No external browser required, all in fullscreen
 - No long settings just click and play
