@@ -58,7 +58,7 @@ Requirements
 
 Xcloud Beta App, is based to the realy important compnent "Webview".
 For the better experience, you'll must have to verify if this is up to date.
-Make a Searching of term "Webview" from in your playstore
+Make a Searching of term "Webview" in your playstore
 If not upd to date, make the upgrade, before playing.
 
 
