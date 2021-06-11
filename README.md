@@ -38,7 +38,7 @@ So it was a good idea and i am excited for working on this project and level up 
 Supported Devices
 -------------------
 
-I have a shield TV Pro 2019 and a xiaomi Mi box S.
+I have a shield TV Pro 2019 and a Xiaomi Mi box S.
 
 - All Nvidia shield tv box (2015,2017 to Pro 2019)
 - All Xiaomi Mi box TV
