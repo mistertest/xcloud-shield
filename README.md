@@ -44,6 +44,24 @@ I have a shield TV Pro 2019 and a Xiaomi Mi box S.
 - All Xiaomi Mi box TV
 
 
+Supported Controllers
+------------------------
+
+All controllers supported by the shield TV officialy.
+- Shield TV conroller (tested)
+- Xbox One/Serie x controller (teste the new version but need some improvements for now)
+- Logitech F710 (tested)
+- PS5 controller (not tested)
+
+Requirements
+-------------
+
+Xcloud Beta App, is based to the realy important compnent "Webview".
+For the better experience, you'll must have to verify if this is up to date.
+Make a Searching of term "Webview" from in your playstore
+If not upd to date, make the upgrade, before playing.
+
+
 
 Information Version
 ---------------------
