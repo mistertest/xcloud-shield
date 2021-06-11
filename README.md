@@ -18,9 +18,9 @@ MY PROJECTS
 *********************************************************************
 
 
- "World Premiere!"
+ "World Premiere !"
  
- yes i can say that, welcome to my Xcloud Beta for Android TV
+ Yes i can say that, welcome to my Xcloud Beta for Android TV
 
 ![Xcloud_beta_home_icon](https://raw.githubusercontent.com/mistertest/devtest/master/img/Home_xcloud2.png)
 
