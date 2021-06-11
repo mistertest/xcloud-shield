@@ -49,7 +49,7 @@ Supported Controllers
 
 All controllers supported by the shield TV officialy.
 - Shield TV conroller (tested)
-- Xbox One/Serie x controller (teste the new version but need some improvements for now)
+- Xbox One/Serie x controller (tested the new version but need some improvements for now)
 - Logitech F710 (tested)
 - PS5 controller (not tested)
 
