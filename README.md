@@ -94,7 +94,7 @@ FIX AND FEATURES
 Special thanks
 -------------------
 Thanks to the team number one about the world of Cloud gaming : 
-The chanel "Cloud Gaming Xtreme", for their help, encouragement and feedback testing.
+The channel "Cloud Gaming Xtreme", for their help, encouragement and feedback testing.
 
 https://www.youtube.com/c/CloudGamingXtreme
 
