@@ -20,7 +20,7 @@ MY PROJECTS
 
 
 
-![Xcloud_beta_home_icon](https://raw.githubusercontent.com/mistertest/devtest/master/img/xcloud_pc_beta_baniere.png)
+![Xcloud_beta_home_icon](https://raw.githubusercontent.com/mistertest/devtest/master/img/xcloud_pc_beta_ban2.png)
 
 
  "World Premiere !"
