@@ -91,7 +91,7 @@ FIX AND FEATURES
 - Better web rendering
 
 
-SPECIAL THANKS
+Special thanks
 -------------------
 Thanks to the team number one about the world of Cloud gaming : 
 The chanel "Cloud Gaming Xtreme", for their help and feedback testing.
