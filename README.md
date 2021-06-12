@@ -68,6 +68,9 @@ For the better experience, you'll must have to verify if this is up to date.
 Make a Searching of term "Webview" in your playstore
 If not upd to date, make the upgrade, before playing.
 
+For Ultimate and beta tester only
+You'll must have to be Xbox member utimate with an invitation for being Beta Tesyer of Xcloud PC.
+If you haven't this two conditions, you can't access to xcloud beta.
 
 
 Information Version
