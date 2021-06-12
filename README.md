@@ -7,7 +7,7 @@ ABOUT ME
 I'm a french Web and Applications Developer, i'm 42 years Old and having my little family. 
 
 I'm passionate about Technology, including Gaming and so the "CLoud Gaming". 
-The perspective that you can play any Big game without having the hardware of the Nasa, fascinate me. So i decided, it will be excite to working on somes project about cloud gaming and learn at the same time Android and Web Apps Developement.
+The perspective that you can play any Big game without having the hardware of the Nasa, fascinate me. So i decided, it will be excite to working on somes project about cloud gaming and level up at the same time Android and Web Apps Developement.
 
 
 MY PROJECTS
