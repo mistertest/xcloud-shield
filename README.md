@@ -18,6 +18,11 @@ MY PROJECTS
 *********************************************************************
 
 
+
+
+![Xcloud_beta_home_icon](https://raw.githubusercontent.com/mistertest/devtest/master/img/xcloud_pc_beta_baniere.png)
+
+
  "World Premiere !"
  
  Yes i can say that, welcome to my Xcloud Beta for Android TV
