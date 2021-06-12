@@ -63,7 +63,7 @@ All controllers supported by the shield TV officialy.
 Requirements
 -------------
 
-Xcloud Beta App, is based to the realy important compnent "Webview".
+Xcloud Beta App, is based from the realy important compnent: "Webview".
 For the better experience, you'll must have to verify if this is up to date.
 Make a Searching of term "Webview" in your playstore
 If not upd to date, make the upgrade, before playing.
