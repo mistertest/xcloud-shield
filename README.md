@@ -63,14 +63,17 @@ All controllers supported by the shield TV officialy.
 Requirements
 -------------
 
+
+For Ultimate and beta tester only.
+You'll must have to be a Xbox member Ultimate with an special invitation for being Beta Tester of Xcloud PC.
+If you haven't this two conditions, you can't access to the xcloud beta and use this app.
+
 Xcloud Beta App, is based from the realy important compnent: "Webview".
 For the better experience, you'll must have to verify if this is up to date.
 Make a Searching of term "Webview" in your playstore
 If not upd to date, make the upgrade, before playing.
 
-For Ultimate and beta tester only.
-You'll must have to be a Xbox member Ultimate with an special invitation for being Beta Tester of Xcloud PC.
-If you haven't this two conditions, you can't access to the xcloud beta and use this app.
+
 
 
 Information Version
