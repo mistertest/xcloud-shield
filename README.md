@@ -105,6 +105,7 @@ FIX AND FEATURES
 
 The major issue is the select/back button acting in the shield like a back to the home.
 It's on working In Progress, and the solution will coming in the V4 of Xcloud Beta.
+Futures Improvements of experience with input lag reducing in the Webview are coming.
 
 
 Special thanks
