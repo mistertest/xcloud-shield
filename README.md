@@ -80,9 +80,16 @@ If not upd to date, make the upgrade, before playing.
 
 UPDATE YOUR XBOX CONTOLLER:
 
-Microsoft with his next gen and his new xcloud solution usualy updating his devices and accessories.
-So for the better experience, you'll have to updating your xbox controller with the last version.
+If you have a persistant issue with your controller after having updating your webview, 
+you can test to update your xbox controller.
+Microsoft with his next gen, and his new xcloud solution usualy updating their devices and accessories.
+So, for the better experience, you'll have to updating your xbox controller with the last version.
 You can do that directly in windows 10 wth a dedicated tool.
+
+NO UNOFFOCIAL PHYSICAL ACCESSORIES CONNECTED
+
+Know Issue : When a physical keyboard or remote not official (not from nvidia, like harmony) are connected, the controller is blocked.
+
 
 
 
