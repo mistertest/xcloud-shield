@@ -50,13 +50,15 @@ I have a shield TV Pro 2019 and a Xiaomi Mi box S.
 - All Nvidia shield tv box (2015,2017 to Pro 2019)
 - All Xiaomi Mi box TV
 
+The app is not supported for the Chromecast Google TV for now, but i will study the case for futures versions.
+
 
 Supported Controllers
 ------------------------
 
 All controllers supported by the shield TV officialy.
 - Shield TV conroller (tested)
-- Xbox One/Serie x controller (tested serie x)
+- Xbox One/Serie x controller (tested serie x with last update)
 - Logitech F710 (tested)
 - PS5 controller (not tested)
 
