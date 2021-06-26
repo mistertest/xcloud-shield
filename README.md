@@ -62,18 +62,24 @@ All controllers supported by the shield TV officialy.
 - Logitech F710 (tested)
 - PS5 controller (not tested)
 
-Requirements
+REQUIREMENTS
 -------------
 
-
+ONLY FOR XCLOUD PC BETA TESTERS:
 For Ultimate and beta tester only.
 You'll must have to be a Xbox member Ultimate with an special invitation for being Beta Tester of Xcloud PC.
 If you haven't this two conditions, you can't access to the xcloud beta and use this app.
 
+UPDATE YOUR WEBVIEW:
 Xcloud Beta App, is based from the realy important compnent: "Webview".
 For the better experience, you'll must have to verify if this is up to date.
 Make a Searching of term "Webview" in your playstore
 If not upd to date, make the upgrade, before playing.
+
+UPDATE YOUR XBOX CONTOLLER
+Microsoft with his next gen and his new xcloud solution usualy updating his devices and accessories.
+So for the better experience, you'll have to updating your xbox controller with the last version.
+You can do that directly in windows 10 wth a dedicated tool.
 
 
 
