@@ -86,6 +86,8 @@ Microsoft with his next gen, and his new xcloud solution usualy updating their d
 So, for the better experience, you'll have to updating your xbox controller with the last version.
 You can do that directly in windows 10 wth a dedicated tool.
 
+https://support.xbox.com/en-US/help/hardware-network/controller/update-xbox-wireless-controller
+
 NO UNOFFOCIAL PHYSICAL ACCESSORIES CONNECTED
 
 Know Issue : When a physical keyboard or remote not official (not from nvidia, like harmony) are connected, the controller is blocked.
