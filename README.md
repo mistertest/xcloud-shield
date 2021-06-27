@@ -92,6 +92,12 @@ NO UNOFFICIAL PHYSICAL ACCESSORIES CONNECTED
 
 Know Issue : When a physical keyboard or remote not official (not from nvidia, like harmony) are connected, the controller is blocked.
 
+REMAPPING THE BUTTON BACK/SELECT
+
+The major issue was the select/back button acting in the shield like a back to the home.
+The solution is on the new Wiki :
+https://github.com/mistertest/devtest/wiki/Remapping-Button-Back-Select-of-your-controller
+
 
 
 
@@ -123,9 +129,9 @@ FIX AND FEATURES
 
 *Futures Fix Version 4*
 
-The major issue is the select/back button acting in the shield like a back to the home.
-It's on working In Progress, and the solution will coming in the V4 of Xcloud Beta.
-Futures Improvements of experience with input lag reducing in the Webview are coming.
+The major issue was the select/back button acting in the shield like a back to the home.
+The solution is on the new Wiki :
+https://github.com/mistertest/devtest/wiki/Remapping-Button-Back-Select-of-your-controller
 
 
 Special thanks
