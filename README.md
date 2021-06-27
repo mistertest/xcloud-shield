@@ -138,6 +138,16 @@ https://www.youtube.com/c/CloudGamingXtreme
 
 
 
+VIDEOS
+-----------
+
+Demo Xcloud_Beta on the shield tv 2019
+https://drive.google.com/file/d/1mOAsY7paGTx9ZXrGxe-Y1mYLduGibQbo/view?usp=sharing
+
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
+
+
+
 SCREENSHOTS
 ---------------------
 
