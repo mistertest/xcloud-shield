@@ -106,7 +106,7 @@ Information Version
 ---------------------
 
 *Actual version*
-- Xcloud_Beta_V3
+- Xcloud_Beta_V4
 
 
 FIX AND FEATURES
@@ -120,14 +120,16 @@ FIX AND FEATURES
 - No long settings just click and play
 - No timeout in time session user
  
-*New Fix Version 3*
+*Fix Version 3*
 - Redirect after login to the interface
 - No mouse required
 - No popup validation of cookies required
 - Increase of the performance with accelerated hardware
 - Better web rendering
 
-*Futures Fix Version 4*
+*Fix Version 4*
+- Increase of the performance with accelerated hardware for Nvidia shield
+- Better input results, more smooth.
 
 The major issue was the select/back button acting in the shield like a back to the home.
 The solution is on the new Wiki :
