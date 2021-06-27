@@ -141,11 +141,14 @@ https://www.youtube.com/c/CloudGamingXtreme
 VIDEOS
 -----------
 
-Demo Xcloud_Beta on the shield tv 2019
-
-https://drive.google.com/file/d/1mOAsY7paGTx9ZXrGxe-Y1mYLduGibQbo/view?usp=sharing
+A  demo Video of Xcloud Beta app, running and captured in my shield tv 20019:
 
 [![Watch the video](https://img.youtube.com/vi/IzYi6zt-elk/maxresdefault.jpg)](https://youtu.be/IzYi6zt-elk)
+
+
+A bigger google drive video with more games tested:
+
+https://drive.google.com/file/d/1mOAsY7paGTx9ZXrGxe-Y1mYLduGibQbo/view?usp=sharing
 
 
 
