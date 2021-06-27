@@ -146,9 +146,9 @@ A  demo Video of Xcloud Beta app, running and captured in my shield tv 20019:
 [![Watch the video](https://img.youtube.com/vi/IzYi6zt-elk/maxresdefault.jpg)](https://youtu.be/IzYi6zt-elk)
 
 
-A bigger google drive video with more games tested:
+A bigger video with more games tested from my twitch channel: Chichatwitch
 
-https://drive.google.com/file/d/1mOAsY7paGTx9ZXrGxe-Y1mYLduGibQbo/view?usp=sharing
+https://www.twitch.tv/videos/1068889656
 
 
 
