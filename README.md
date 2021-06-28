@@ -91,7 +91,8 @@ https://support.xbox.com/en-US/help/hardware-network/controller/update-xbox-wire
 NO UNOFFICIAL PHYSICAL ACCESSORIES CONNECTED
 
 Know Issue : When a physical keyboard or remote not official (not from nvidia, like harmony) are connected, the controller is blocked.
-It was true before the method about EKH "External Keyboard Helper": this app authorise external keyboards and remapping.
+Edit V4 :
+It was true before the method about EKH "External Keyboard Helper", because this app authorise external keyboards and remapping.
 
 REMAPPING THE BUTTON BACK/SELECT
 
