@@ -16,6 +16,7 @@ MY PROJECTS
 ********************************************************************
   XCLOUD BETA V3 1080p UNOFFICIAL -  FOR ANDROID TV NVIDIA SHIELD
 *********************************************************************
+NEWS 28/06/2021 *** XCLOUD PC IS OPEN FOR ALL *** NEWS 28/06/2021
 
 
 
@@ -65,7 +66,10 @@ All controllers supported by the shield TV officialy.
 REQUIREMENTS
 -------------
 
+
 ONLY FOR XCLOUD PC BETA TESTERS:
+
+NEWS 28/06/2021 *** XCLOUD PC IS OPEN FOR ALL *** NEWS 28/06/2021
 
 For Ultimate and beta tester only.
 You'll must have to be a Xbox member Ultimate with an special invitation for being Beta Tester of Xcloud PC.
