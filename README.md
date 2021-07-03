@@ -10,6 +10,7 @@ I'm passionate about Technology, including Gaming and so the "CLoud Gaming".
 The perspective that you can play any Big game without having the hardware of the Nasa, fascinate me. So i decided, it will be excite to working on somes project about cloud gaming and level up at the same time Android and Web Apps Developement.
 
 NEW PATREON
+
 You can support me for my work and concretise new ideas or features by my new Patreon here: 
 https://www.patreon.com/mistertest
 
