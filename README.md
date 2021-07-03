@@ -14,6 +14,13 @@ NEW PATREON
 You can support me for my work and concretise new ideas or features by my new Patreon here: 
 https://www.patreon.com/mistertest
 
+PAYPAL ME
+
+You can use this button Paypal for occasionel Donate
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](hcrea@live.fr)
+
+
 
 
 MY PROJECTS
