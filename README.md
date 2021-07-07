@@ -1,4 +1,4 @@
-# Xcloud for shield TV
+# Xcloud for Nvidia shield TV
 
 
 ABOUT ME
