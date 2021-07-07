@@ -1,4 +1,4 @@
-# Xcloud Beta for shield TV
+# Xcloud for shield TV
 
 
 ABOUT ME
@@ -125,11 +125,13 @@ https://github.com/mistertest/devtest/wiki/Remapping-Button-Back-Select-of-your-
 
 
 
+
+
 Information Version
 ---------------------
 
 *Actual version*
-- Xcloud_Beta_V4
+- Xcloud_Beta_V4.1
 
 
 FIX AND FEATURES
@@ -158,6 +160,11 @@ The major issue was the select/back button acting in the shield like a back to t
 The solution is on the new Wiki :
 https://github.com/mistertest/devtest/wiki/Remapping-Button-Back-Select-of-your-controller
 
+*Fix Version 4.1*
+
+- Corrections of code from the manifest xml
+- Global improvement
+- A largest compatibility of android/Android TV - Minimal android 7 to  maximal Android 11
 
 Special thanks
 -------------------
