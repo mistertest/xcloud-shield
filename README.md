@@ -170,7 +170,6 @@ Special thanks
 -------------------
 Thanks to the team number one about the world of Cloud gaming : 
 The channel "Cloud Gaming Xtreme", for their help, encouragement and feedback testing.
-Futures Improvements of experience with input lag reducing in the Webview are coming.
 
 https://www.youtube.com/c/CloudGamingXtreme
 
