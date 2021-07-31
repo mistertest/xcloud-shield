@@ -27,7 +27,7 @@ MY PROJECTS
 
 
 ********************************************************************
-  XCLOUD BETA V4.1 1080p UNOFFICIAL -  FOR ANDROID TV NVIDIA SHIELD
+  XCLOUD BETA V4.2 1080p UNOFFICIAL -  FOR ANDROID TV NVIDIA SHIELD
 *********************************************************************
 NEWS 28/06/2021 *** XCLOUD PC IS OPEN FOR ALL *** NEWS 28/06/2021
 
@@ -131,7 +131,7 @@ Information Version
 ---------------------
 
 *Actual version*
-- Xcloud_Beta_V4.1
+- Xcloud_Beta_V4.2
 
 
 FIX AND FEATURES
@@ -194,11 +194,11 @@ SCREENSHOTS
 
 Accessible from Home 
 
-![Xcloud_beta_home_icon](https://raw.githubusercontent.com/mistertest/devtest/master/img/Home_xcloudBeta.png)
+![Xcloud_beta_home_icon](https://github.com/mistertest/xcloud-shield/blob/master/img/xcloud_new_banner_app.png)
 
 Accessible from Menu
 
-![Xcloud_beta_home_icon](https://raw.githubusercontent.com/mistertest/devtest/master/img/Menu_xcloudBeta.png)
+![Xcloud_beta_home_icon](https://github.com/mistertest/xcloud-shield/blob/master/img/xcloud_new_banner_home.png)
 
 
 Interface of Xcloud Beta in Shield TV
