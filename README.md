@@ -164,11 +164,19 @@ https://github.com/mistertest/devtest/wiki/Remapping-Button-Back-Select-of-your-
 - Global improvement
 - A largest compatibility of android/Android TV - Minimal android 7 to  maximal Android 11
 
-### Special thanks
--------------------
-Thanks to the team number one about the world of Cloud gaming : 
-The channel "Cloud Gaming Xtreme", for their help, encouragement and feedback testing.
 
+
+
+### Special thanks
+ 
+![CGX icon](https://github.com/mistertest/luna-shield/blob/main/images/unnamed.jpg)
+ 
+ 
+#### Cloud Gaming Xtreme
+ 
+Special Thanks to the number one comunauty about the Cloud gaming:
+ 
+The CGX 
 https://www.youtube.com/c/CloudGamingXtreme
 
 
