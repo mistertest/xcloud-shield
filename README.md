@@ -1,7 +1,7 @@
 # Xcloud for Nvidia shield TV
 
 
-ABOUT ME
+### ABOUT ME
 **********
 
 I'm a french Web and Applications Developer, i'm 42 years Old and having my little family. 
@@ -21,7 +21,7 @@ You can use this button Paypal for donations.
 
 
 
-MY PROJECTS
+### MY PROJECTS
 
 
 ********************************************************************
@@ -58,7 +58,7 @@ So it was a good idea and i am excited for working on this project and level up 
 
 
 
-Supported Devices
+### Supported Devices
 -------------------
 
 I have a shield TV Pro 2019 and a Xiaomi Mi box S.
@@ -69,7 +69,7 @@ I have a shield TV Pro 2019 and a Xiaomi Mi box S.
 The app is not supported for the Chromecast Google TV for now, but i will study the case for futures versions.
 
 
-Supported Controllers
+### Supported Controllers
 ------------------------
 
 All controllers supported by the shield TV officialy.
@@ -78,7 +78,7 @@ All controllers supported by the shield TV officialy.
 - Logitech F710 (tested)
 - PS5 controller (not tested)
 
-REQUIREMENTS
+### REQUIREMENTS
 -------------
 
 
@@ -164,7 +164,7 @@ https://github.com/mistertest/devtest/wiki/Remapping-Button-Back-Select-of-your-
 - Global improvement
 - A largest compatibility of android/Android TV - Minimal android 7 to  maximal Android 11
 
-Special thanks
+### Special thanks
 -------------------
 Thanks to the team number one about the world of Cloud gaming : 
 The channel "Cloud Gaming Xtreme", for their help, encouragement and feedback testing.
@@ -173,7 +173,7 @@ https://www.youtube.com/c/CloudGamingXtreme
 
 
 
-VIDEOS
+### VIDEOS
 -----------
 
 A  demo Video of Xcloud Beta app, running and captured in my shield tv 20019:
@@ -187,7 +187,7 @@ https://www.twitch.tv/videos/1068889656
 
 
 
-SCREENSHOTS
+### SCREENSHOTS
 ---------------------
 
 Accessible from Home 
