@@ -21,13 +21,7 @@ You can use this button Paypal for donations.
 
 
 
-### MY PROJECTS
-
-
-********************************************************************
-  XCLOUD BETA V4.2 1080p UNOFFICIAL -  FOR ANDROID TV NVIDIA SHIELD
-*********************************************************************
-NEWS 28/06/2021 *** XCLOUD PC IS OPEN FOR ALL *** NEWS 28/06/2021
+### XCLOUD BETA FOR NVIDIA SHIELD ANDROID TV
 
 
 
@@ -41,19 +35,20 @@ NEWS 28/06/2021 *** XCLOUD PC IS OPEN FOR ALL *** NEWS 28/06/2021
 
 ![Xcloud_beta_home_icon](https://raw.githubusercontent.com/mistertest/devtest/master/img/Home_xcloud2.png)
 
-NEWS 28/06/2021 *** XCLOUD PC IS OPEN FOR ALL *** NEWS 28/06/2021
 
-Xcloud is the new platform of Cloud Gaming by Microsoft Xbox. 
-The official App, exist only for Smartphone and Tablets Android at the moment,  and this is limited at the resolution 720p. 
+## Context
 
-I'm a lucky beta tester of the Xcloud Web App for PC: It's exectuted directly from the browser  on PC with the full HD resolution (1080p). 
-I have the project to enjoy it directly on my box TV : The Nvidia shield Pro 2019.
-So i decided to coding an application for my shield TV for enjoying my games of my gamepass ultimate.
+Xcloud is the new Cloud Gaming Platform by Microsoft Xbox.
+Xcloud was on private beta, during some months, and it's public now for all from the 28 June 2O21 ago.
 
-NEWS 28/06/2021 *** XCLOUD PC IS OPEN FOR ALL *** NEWS 28/06/2021
 
-An official application from Xbox for Android TV will be coming but certainly in somes years.
-So it was a good idea and i am excited for working on this project and level up my skills on Android developpement. 
+The official Android App, exist only for Smartphone and Tablets at the moment, so there is no official App for Android TV, for now.
+You can only use "Sideload" with  the Smartphone App, but performances are not optimized and the Interface is not thinked and integrated for Android TV experience.
+
+I was a lucky beta tester of the Xcloud Web App for PC: It's exectuted directly from the browser  on PC with the full HD resolution (1080p). 
+I was thinking that it will be awesome if i can enjoy it directly on my box TV : The Nvidia shield Pro 2019.
+So i decided to coding, an application for my shield TV for enjoying my games of my "game pass ultimate".
+It was a good idea and excited project, for improve my skills in Android App development.
 
 
 
@@ -82,13 +77,9 @@ All controllers supported by the shield TV officialy.
 -------------
 
 
-ONLY FOR XCLOUD PC BETA TESTERS:
+SUBSCRIPTION TO GAME PASS ULTIMATE
 
-NEWS 28/06/2021 *** XCLOUD PC IS OPEN FOR ALL *** NEWS 28/06/2021
-
-For Ultimate and beta tester only.
-You'll must have to be a Xbox member Ultimate with an special invitation for being Beta Tester of Xcloud PC.
-If you haven't this two conditions, you can't access to the xcloud beta and use this app.
+You'll must have to be a Xbox member Ultimate for using Cloud gaming features and this App.
 
 UPDATE YOUR WEBVIEW:
 
