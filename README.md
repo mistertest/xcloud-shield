@@ -118,7 +118,7 @@ Information Version
 ---------------------
 
 *Actual version*
-- Xcloud_Beta_V4.2
+- Xcloud_Beta_V4.3
 
 
 FIX AND FEATURES
