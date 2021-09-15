@@ -127,9 +127,12 @@ https://github.com/mistertest/devtest/wiki/Remapping-Button-Back-Select-of-your-
 *Features*
 - Full optimised for Android TV and the shield TV
 - Full controller support in interface and Games
-- Icon Baner on Home page and menu of Android TV
+- Icon Banner on Home page and menu of Android TV
 - No external browser required, all in fullscreen
+- No mouse required
+- Performances of a webview optimised for cloud gaming
 - No long settings just click and play
+- Automatic language select (language used by default  with your device)
 
  
  
