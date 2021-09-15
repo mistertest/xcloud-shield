@@ -136,7 +136,7 @@ https://github.com/mistertest/devtest/wiki/Remapping-Button-Back-Select-of-your-
 
  
  
- ## FIX MAPPING BUTTON
+ ### FIX MAPPING BUTTON
  
 The major issue was the select/back button acting in the shield like a back to the home.
 The solution is on the new Wiki :
