@@ -175,6 +175,8 @@ https://www.youtube.com/c/CloudGamingXtreme
 
 A  demo Video of Xcloud Beta app, running and captured in my shield tv 20019:
 
+[![Watch the video](https://img.youtube.com/vi/fzqqhDurLcs/maxresdefault.jpg)](https://www.youtube.com/watch?v=fzqqhDurLcs)
+
 [![Watch the video](https://img.youtube.com/vi/IzYi6zt-elk/maxresdefault.jpg)](https://youtu.be/IzYi6zt-elk)
 
 
