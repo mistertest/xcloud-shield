@@ -11,7 +11,7 @@ The perspective that you can play any Big game without having the hardware of th
 
 
 
-### DONATE
+### DONATE PAYPAL
 
 If you appreciate my work and would like encourage me to continue all my projects, you can make a donate. I need having some hardware devices, for testing apps like a chromecast or  others things like some subscribtions to online services. So if you would like that i level up for updating my apps the donations are benefits. 
 You can use this button Paypal for donations.
