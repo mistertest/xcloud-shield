@@ -114,44 +114,31 @@ https://github.com/mistertest/devtest/wiki/Remapping-Button-Back-Select-of-your-
 
 
 
-Information Version
+### Information Version
 ---------------------
 
 *Actual version*
 - Xcloud_Beta_V4.3
 
 
-FIX AND FEATURES
+### FIX AND FEATURES
 ---------------------
 
 *Features*
-- Full optimised for Android TV and the shield
-- Full controller support in interface 
+- Full optimised for Android TV and the shield TV
+- Full controller support in interface and Games
 - Icon Baner on Home page and menu of Android TV
 - No external browser required, all in fullscreen
 - No long settings just click and play
-- No timeout in time session user
+
  
-*Fix Version 3*
-- Redirect after login to the interface
-- No mouse required
-- No popup validation of cookies required
-- Increase of the performance with accelerated hardware
-- Better web rendering
-
-*Fix Version 4*
-- Increase of the performance with accelerated hardware for Nvidia shield
-- Better input results, more smooth.
-
+ 
+ ## FIX MAPPING BUTTON
+ 
 The major issue was the select/back button acting in the shield like a back to the home.
 The solution is on the new Wiki :
 https://github.com/mistertest/devtest/wiki/Remapping-Button-Back-Select-of-your-controller
 
-*Fix Version 4.1*
-
-- Corrections of code from the manifest xml
-- Global improvement
-- A largest compatibility of android/Android TV - Minimal android 7 to  maximal Android 11
 
 
 
