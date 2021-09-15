@@ -54,12 +54,21 @@ It was a good idea and excited project, for improve my skills in Android App dev
 ### Supported Devices
 -------------------
 
-I have a shield TV Pro 2019 and a Xiaomi Mi box S.
+I have a shield TV Pro version 2019.
 
 - All Nvidia shield tv box (2015,2017 to Pro 2019)
-- All Xiaomi Mi box TV
+- All latest models Xiaomi Mi box TV ( Mi box 4S/PRO)
+- All latest models of Firestick and Firecube from Amazon
+- Perhaps certain latest models of TV
 
-The app is not supported for the Chromecast Google TV for now, but i will study the case for futures versions.
+Globally all Android TV device powerful ( Processor, APU, RAM ) can run and provide the better experience.
+Certain users install it on powerful smartphone, and have a very good experience too.
+But it's firstly for the shield TV, the most powerful Android device, it's not a myth.
+
+
+This App is not supported for the Chromecast Google TV.
+A special project for this device will be coming here soon:
+https://github.com/mistertest/xcloud-cgtv
 
 
 ### Supported Controllers
