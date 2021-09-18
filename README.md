@@ -75,10 +75,13 @@ https://github.com/mistertest/xcloud-cgtv
 ------------------------
 
 All controllers supported by the shield TV officialy.
-- Shield TV conroller (tested)
-- Xbox One/Serie x controller (tested serie x with last update)
+
+I don't recommend PS4/5 controllers, because "Xinput " the mapping from Microsoft is the more integrated and optimised for all things about Cloud Gaming and Android by default. You'll have to using obscur tricks for just having a correct experience with your Playstation controler.
+
+- All Shield TV conrollers version (version 2019 tested)
+- Xbox One latest version/Serie x controller (tested serie x with latest update)
 - Logitech F710 (tested)
-- PS5 controller (not tested)
+
 
 ### REQUIREMENTS
 -------------
