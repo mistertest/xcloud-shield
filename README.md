@@ -166,7 +166,7 @@ http://www.javadecompilers.com/apk
 
 
 
-## Special thanks
+## SPECIAL THANKS
 
  
 ![CGX icon](https://github.com/mistertest/luna-shield/blob/main/images/unnamed.jpg)
