@@ -158,7 +158,7 @@ https://github.com/mistertest/devtest/wiki/Remapping-Button-Back-Select-of-your-
 All my projects are safe but i don't want sharing my code here for pernal reasons. It's my decision for now but i can change my mind and orgenise a other method. 
 But you can analys My projects all you want with many tools like APKtools and others.
 
-Results of securty test 
+Results of security test 
 https://www.virustotal.com/gui/file/b33006cd86f6d3da6166c234f6d3b5b00b0a4a1fd614f8428dd6e51d49dbeb60
 
 Online APK Decompiler 
