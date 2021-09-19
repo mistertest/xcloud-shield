@@ -57,8 +57,7 @@ It was a good idea and excited project, for improve my skills in Android App dev
 I have a shield TV Pro version 2019.
 
 - All Nvidia shield tv box (2015,2017 to Pro 2019)
-- All latest models Xiaomi Mi box TV ( Mi box 4S/PRO)
-- All latest models of Firestick and Firecube from Amazon
+- Perhaps certain models of latest and powerfull Firestck, Firecube and Mi box
 - Perhaps certain latest models of TV
 
 Globally all Android TV device powerful ( Processor, APU, RAM ) can run and provide the better experience.
