@@ -21,7 +21,7 @@ You can use this button Paypal for donations.
 
 
 
-### XCLOUD BETA FOR NVIDIA SHIELD ANDROID TV
+### XCLOUD BETA UNOFFICIAL FOR NVIDIA SHIELD ANDROID TV
 
 
 
