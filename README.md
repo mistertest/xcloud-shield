@@ -78,7 +78,7 @@ All controllers supported by the shield TV officialy.
 I recomand to use "Xbox" controllers, because "Xinput " the mapping from Microsoft is the more integrated and optimised for all things about Cloud Gaming and Android by default. 
 
 - All Shield TV conrollers version (version 2019 tested)
-- latest version Xbox One /Serie X controller (tested serie x with latest update)
+- Latest version Xbox One /Series X controller (tested serie x with latest update)
 - Logitech F710 (tested)
 - The majority of xinput controllers
 
