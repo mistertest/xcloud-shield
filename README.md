@@ -21,7 +21,7 @@ You can use this button Paypal for donations.
 
 
 
-### XCLOUD FOR NVIDIA SHIELD ANDROID TV
+### XCLOUD APP UNOFFICIAL FOR NVIDIA SHIELD ANDROID TV
 
 
 
