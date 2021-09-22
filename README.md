@@ -152,7 +152,7 @@ https://github.com/mistertest/xcloud-shield/wiki
  
 The major issue was the select/back button acting in the shield like a back to the home.
 The solution is on the new Wiki :
-https://github.com/mistertest/devtest/wiki/Remapping-Button-Back-Select-of-your-controller
+https://github.com/mistertest/xcloud-shield/wiki
 
 
 
