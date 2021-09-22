@@ -188,7 +188,7 @@ https://www.youtube.com/c/CloudGamingXtreme
 -----------
 
 
-Showcase video  from the chanel Cloud Gaming Xtreme
+Showcase video  from the Cloud Gaming Xtreme chanel 
 [![Watch the video](https://img.youtube.com/vi/fzqqhDurLcs/maxresdefault.jpg)](https://www.youtube.com/watch?v=fzqqhDurLcs)
 
 A  demo Video of Xcloud Beta app, running and captured in my shield tv 20019:
