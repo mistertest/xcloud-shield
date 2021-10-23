@@ -34,7 +34,7 @@ You can use this button Paypal for donations.
  Yes i can say that, welcome to my Xcloud Beta for Android TV
 
 
-## Context
+## CONTEXT
 
 Xcloud is the new Cloud Gaming Platform by Microsoft Xbox.
 Xcloud was on private beta, during some months, and it's public now for all from the 28 June 2O21 ago.
@@ -51,7 +51,7 @@ It was a good idea and excited project, for improve my skills in Android App dev
 
 
 
-### Supported Devices
+### SUPPORTED DEVICES
 -------------------
 
 I have a shield TV Pro version 2019.
@@ -70,7 +70,7 @@ A special project for this device will be coming here soon:
 https://github.com/mistertest/xcloud-cgtv
 
 
-### Supported Controllers
+### SUPPORTED CONTROLLERS
 ------------------------
 
 All controllers supported by the shield TV officialy.
