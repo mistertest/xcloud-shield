@@ -176,7 +176,11 @@ https://github.com/mistertest/xcloud-shield/issues
 
 
 
-### WANT TO THANK ME 
+### TO THANK ME 
+
+You are welcome to tell me all your positive posts and how happy you are to enjoy the app here.<br>
+The goal is to have a centralized place for it, now that the app has regular and satisfied users. <br>
+Thanks in advance for your support.
 
 https://github.com/mistertest/xcloud-shield/issues/13
 
