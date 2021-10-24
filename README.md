@@ -156,18 +156,6 @@ https://github.com/mistertest/xcloud-shield/wiki
 
 
 
-### SECURITY
-
-All my projects are safe but I don't want sharing my code here for personal reasons. It's my decision for now but I can change my mind and orgenise a other method. 
-But you can analys My projects all you want with many tools like APKtools and others.
-
-Results of security test 
-https://www.virustotal.com/gui/file/b33006cd86f6d3da6166c234f6d3b5b00b0a4a1fd614f8428dd6e51d49dbeb60
-
-Online APK Decompiler 
-http://www.javadecompilers.com/apk
-
-
 
 ### TECHNICAL ISSUE, NEED SUPPORT ?
 
@@ -191,6 +179,22 @@ The goal is to have a centralized place for it, now that the app has regular and
 Thanks in advance for your support.
 
 https://github.com/mistertest/xcloud-shield/issues/13
+
+
+
+### SECURITY
+
+All my projects are safe but I don't want sharing my code here for personal reasons. It's my decision for now but I can change my mind and orgenise a other method. 
+But you can analys My projects all you want with many tools like APKtools and others.
+
+Results of security test 
+https://www.virustotal.com/gui/file/b33006cd86f6d3da6166c234f6d3b5b00b0a4a1fd614f8428dd6e51d49dbeb60
+
+Online APK Decompiler 
+http://www.javadecompilers.com/apk
+
+
+
 
 
 
