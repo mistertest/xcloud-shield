@@ -116,8 +116,8 @@ It was true before the method about EKH "External Keyboard Helper", because this
 
 REMAPPING THE BUTTON BACK/SELECT
 
-The major issue was the select/back button acting in the shield like a back to the home.
-The solution is on the new Wiki :
+The major issue was the select/back button acting in the shield like a back to the home.<br>
+The solution is on the new Wiki :<br>
 https://github.com/mistertest/xcloud-shield/wiki
 
 
