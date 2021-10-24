@@ -176,6 +176,14 @@ https://github.com/mistertest/xcloud-shield/issues
 
 
 
+### THE WIKI PROJECT
+
+You'll have to read the Wiki for the better experience and comfort, There are cool tips.
+
+https://github.com/mistertest/xcloud-shield/wiki
+
+
+
 ### TO THANK ME 
 
 You are welcome to tell me all your positive posts and how happy you are to enjoy the app here.<br>
