@@ -169,7 +169,7 @@ http://www.javadecompilers.com/apk
 
 
 
-### A TECHNICAL ISSUE, NEED SUPPORT ?
+### TECHNICAL ISSUE, NEED SUPPORT ?
 
 https://github.com/mistertest/xcloud-shield/issues
 
