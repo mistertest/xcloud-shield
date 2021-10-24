@@ -169,6 +169,21 @@ http://www.javadecompilers.com/apk
 
 
 
+### A TECHNICAL ISSUE, NEED SUPPORT ?
+
+https://github.com/mistertest/xcloud-shield/issues
+
+
+
+
+### WANT TO THANK ME 
+
+https://github.com/mistertest/xcloud-shield/issues/13
+
+
+
+
+
 ## SPECIAL THANKS
 
  
