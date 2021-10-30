@@ -36,7 +36,11 @@ You can use this button Paypal for donations.
 
 ## CONTEXT
 
-Xcloud is the new Cloud Gaming Platform by Microsoft Xbox. Xcloud was on private beta, during some months, and it's public now for all from the 28 June 2O21 ago.
+
+Xcloud is the new Cloud Gaming Platform by Microsoft Xbox.<br>
+Xcloud was on private beta, during some months, and it's public now for all from the 28 June 2O21 ago.
+
+#### Why I created Xcloud App Unofficial for Shield TV
 
 I was a lucky beta tester of the Xcloud Web App for PC: <br>
 It's exectuted directly from the browser on PC with the full HD resolution (1080p). <br>
@@ -44,12 +48,14 @@ I was thinking that it will be awesome if i can enjoy it directly on my box TV :
 So i decided to coding, an application for my shield TV for enjoying my games of my "game pass ultimate".<br>
 It was a good idea and excited project, for improve my skills in Android App development.
 
+#### Why I not use "Sideload" or browsers
+
 The official Android App, exist only for Smartphone and Tablets at the moment, so there is no official App for Android TV, for now.<br>
 You only just can using "Sideload" with the Smartphone App version, but performances <br>
 are not optimized and the Interface is not thinked and integrated for Android TV experience. <br>
-And using Browsers like Chrome with sideload is not playable too. <br>
+And using Browsers like Chrome with sideload is not playable too, to much buggy. <br>
 The only browser on the shield than can promise a minimal and acceptable experience is Open Browser. <br>
-But it's not optimised well for Cloud gaming too. 
+But it's not optimised well for Cloud gaming too.
 
 
 
