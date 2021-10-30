@@ -140,7 +140,8 @@ https://github.com/mistertest/xcloud-shield/wiki
 ---------------------
 ##### Actual version
 
-![Xcloud Shield](https://img.shields.io/badge/Xcloud%20Shield-V4.3-brightgreen.svg)
+
+[![Donate](https://img.shields.io/badge/Xcloud%20Shield-V4.3-brightgreen.svg)](https://github.com/mistertest/xcloud-shield/releases/tag/version_4.3)
 
 
 ### FIX AND FEATURES
