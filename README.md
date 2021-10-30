@@ -29,7 +29,7 @@ You can use this button Paypal for donations.
 ![Xcloud_beta_home_icon](https://github.com/mistertest/xcloud-shield/blob/master/img/banner_xcloud_beta_app.png)
 
 
- "World Premiere !"
+ #### WORLD PREMIERE !
  
  Yes i can say that, welcome to my Xcloud Beta for Android TV
 
