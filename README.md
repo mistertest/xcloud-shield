@@ -138,9 +138,7 @@ https://github.com/mistertest/xcloud-shield/wiki
 
 ### Information Version
 ---------------------
-
-*Actual version*
-- Xcloud_Beta_V4.3
+##### Actual version
 
 ![npm package](https://img.shields.io/badge/Xcloud%20Shield-V4.3-brightgreen.svg)
 
