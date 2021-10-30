@@ -48,7 +48,8 @@ The official Android App, exist only for Smartphone and Tablets at the moment, s
 You only just can using "Sideload" with the Smartphone App version, but performances <br>
 are not optimized and the Interface is not thinked and integrated for Android TV experience. <br>
 And using Browsers like Chrome with sideload is not playable too. <br>
-The only browser on the shield than can promise a minimal and acceptable experience is Open Browser. But it's not optimised well for Cloud gaming too. 
+The only browser on the shield than can promise a minimal and acceptable experience is Open Browser. <br>
+But it's not optimised well for Cloud gaming too. 
 
 
 
