@@ -153,7 +153,7 @@ https://github.com/mistertest/xcloud-shield/wiki
 - No external browser required, all in fullscreen
 - No mouse required, Just only use your controller
 - Performances of a Webview optimized for cloud gaming
-- No longs settings just click and play
+- No long and boring settings, click and play
 - Automatic language select (language used by default  with your Shield)
 
  
