@@ -51,7 +51,7 @@ It was a good idea and excited project, for improve my skills in Android App dev
 #### Why I not use "Sideload" or browsers ?
 
 The official Android App, exist only for Smartphone and Tablets at the moment, so there is no official App for Android TV, for now.<br>
-You only just, can using "Sideload" with the Smartphone App version, but performances <br>
+You can just only use "Sideload" with the Smartphone App version, but performances <br>
 are not optimized and the Interface is not thinked and integrated for Android TV experience. <br>
 And using Browsers like Chrome with sideload is not playable too, to much buggy. <br>
 The only browser, on the shield that can promise a minimal and acceptable experience is Open Browser. <br>
