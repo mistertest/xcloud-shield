@@ -91,18 +91,18 @@ I recommend to use "Xbox" controllers, because "Xinput" the mapping from Microso
 -------------
 
 
-# SUBSCRIPTION TO GAME PASS ULTIMATE
+##### SUBSCRIPTION TO GAME PASS ULTIMATE
 
 You'll must have to be a Xbox member Ultimate for using Cloud gaming features and this App.
 
-UPDATE YOUR WEBVIEW:
+##### UPDATE YOUR WEBVIEW:
 
 Xcloud Beta App, is based from the realy important compnent: "Webview".
 For the better experience, you'll must have to verify if this is up to date.
 Make a Searching of term "Webview" in your playstore
 If not upd to date, make the upgrade, before playing.
 
-UPDATE YOUR XBOX CONTOLLER:
+##### UPDATE YOUR XBOX CONTOLLER:
 
 If you have a persistant issue with your controller after having updating your webview, 
 you can test to update your xbox controller.
@@ -112,13 +112,13 @@ You can do that directly in windows 10 wth a dedicated tool.
 
 https://support.xbox.com/en-US/help/hardware-network/controller/update-xbox-wireless-controller
 
-NO UNOFFICIAL PHYSICAL ACCESSORIES CONNECTED
+##### NO UNOFFICIAL PHYSICAL ACCESSORIES CONNECTED
 
 Know Issue : When a physical keyboard or remote not official (not from nvidia, like harmony) are connected, the controller is blocked.
 Edit V4 :
 It was true before the method about EKH "External Keyboard Helper", because this app authorise external keyboards and remapping.
 
-REMAPPING THE BUTTON BACK/SELECT
+##### REMAPPING THE BUTTON BACK/SELECT
 
 The major issue was the select/back button acting in the shield like a back to the home.<br>
 The solution is on the new Wiki :<br>
