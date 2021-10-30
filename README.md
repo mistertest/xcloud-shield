@@ -91,7 +91,7 @@ I recommend to use "Xbox" controllers, because "Xinput" the mapping from Microso
 -------------
 
 
-SUBSCRIPTION TO GAME PASS ULTIMATE
+# SUBSCRIPTION TO GAME PASS ULTIMATE
 
 You'll must have to be a Xbox member Ultimate for using Cloud gaming features and this App.
 
