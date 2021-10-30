@@ -149,12 +149,12 @@ https://github.com/mistertest/xcloud-shield/wiki
 *Features*
 - Full optimised for Android TV and the shield TV
 - Full controller support in interface and Games
-- Icon Banner on Home page and menu of Android TV
+- Icon Banner on Home page and all menus of Android TV
 - No external browser required, all in fullscreen
-- No mouse required
-- Performances of a webview optimised for cloud gaming
-- No long settings just click and play
-- Automatic language select (language used by default  with your device)
+- No mouse required, Just only use your controller
+- Performances of a Webview optimized for cloud gaming
+- No longs settings just click and play
+- Automatic language select (language used by default  with your Shield)
 
  
  
