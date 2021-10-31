@@ -50,12 +50,13 @@ It was a good idea and excited project, for improve my skills in Android App dev
 
 #### Why I not use "Sideload" or browsers ?
 
-The official Android App, exist only for Smartphone and Tablets at the moment, so there is no official App for Android TV, for now.<br>
-You can just only use "Sideload" with the Smartphone App version, but performances <br>
-are not optimized and the Interface is not thinked and integrated for Android TV experience. <br>
-And using Browsers like Chrome with sideload is not playable too, to much buggy. <br>
-The only browser, on the shield that can promise a minimal and acceptable experience is Open Browser. <br>
-But it's not optimised well for Cloud gaming too.
+
+The official Android app only exists for smartphones and tablets at the moment, so there is no official Android TV app at this time. <br>
+You can only use "Sideload" with the Smartphone App version, but the performance <br>
+was not optimized at the start of the service, and the interface was not designed and integrated for the Android TV experience. <br>
+In fact, the Official game pass app has made a lot of improvements, and now the experience is similar on the Shield between the two apps.<br>
+But it was not the case 6 month ago and my app was born from this frustrating situation.  <br>
+
 
 
 
