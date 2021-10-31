@@ -57,7 +57,7 @@ was not optimized at the start of the service, and the interface was not designe
 In fact, the Official game pass app has made a lot of improvements, and now the experience is similar on the Shield between the two apps.<br>
 But it was not the case 6 month ago and my app was born from this frustrating situation.  <br><br>
 Despite the progress made by the official Application Game Pass, <br>
-I continue to having preferences certain aspects of my application <br>
+I continue to having preferences for certain aspects of my application <br>
 such as the interface, the smoothness of navigation and the overall image rendering.
 
 
