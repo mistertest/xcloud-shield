@@ -58,7 +58,7 @@ In fact, the Official game pass app has made a lot of improvements, and now the 
 But it was not the case 6 month ago and my app was born from this frustrating situation.  <br><br>
 Despite the progress made by the official Application Game Pass, <br>
 I continue to having preferences for certain aspects of my application <br>
-such as the interface, the smoothness of navigation and the overall image rendering.
+such as the interface, the smoothness of navigation, the overall image rendering and a better experience in Game for me.
 
 
 
@@ -96,6 +96,12 @@ I recommend to use "Xbox" controllers, because "Xinput" the mapping from Microso
 - Logitech F710 (tested)
 - The majority of "Xinput" controllers
 
+New with te Version 4.4 : 
+The Version 4.4 give now the priority to Xbox controllers for interacting in Game when multiple Controllers are connceted at the same time.
+Others Controllers are not disconnected, they can't interact in game but only with the Android TV navigation.
+When the xbox controller is disconnected, the other controller already connected can be use in game automaticly.
+
+
 
 ### REQUIREMENTS
 -------------
@@ -125,8 +131,7 @@ https://support.xbox.com/en-US/help/hardware-network/controller/update-xbox-wire
 ##### NO UNOFFICIAL PHYSICAL ACCESSORIES CONNECTED
 
 Know Issue : When a physical keyboard or remote not official (not from nvidia, like harmony) are connected, the controller is blocked.
-Edit V4 :
-It was true before the method about EKH "External Keyboard Helper", because this app authorise external keyboards and remapping.
+
 
 ##### REMAPPING THE BUTTON BACK/SELECT
 
