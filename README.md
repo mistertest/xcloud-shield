@@ -1,5 +1,7 @@
 # Xcloud for Nvidia shield TV
 
+[![Version](https://img.shields.io/badge/Xcloud%20Shield-V4.4-brightgreen.svg)](https://github.com/mistertest/xcloud-shield/releases/tag/version_4.4)
+
 
 ### ABOUT ME
 **********
@@ -151,7 +153,7 @@ https://github.com/mistertest/xcloud-shield/wiki
 ##### Actual version
 
 
-[![Donate](https://img.shields.io/badge/Xcloud%20Shield-V4.4-brightgreen.svg)](https://github.com/mistertest/xcloud-shield/releases/tag/version_4.4)
+[![Version](https://img.shields.io/badge/Xcloud%20Shield-V4.4-brightgreen.svg)](https://github.com/mistertest/xcloud-shield/releases/tag/version_4.4)
 
 
 ### FIX AND FEATURES
