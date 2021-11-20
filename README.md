@@ -54,11 +54,12 @@ It was a good idea and excited project, for improve my skills in Android App dev
 The official Android app only exists for smartphones and tablets at the moment, so there is no official Android TV app at this time. <br>
 You can only use "Sideload" with the Smartphone App version, but the performance <br>
 was not optimized at the start of the service, and the interface was not designed and integrated for the Android TV experience. <br>
-In fact, the Official game pass app has made a lot of improvements, and now the experience is similar on the Shield between the two apps.<br>
+In fact, the Official game pass app has made a lot of improvements, and now the experience is better.<br>
 But it was not the case 6 month ago and my app was born from this frustrating situation.  <br><br>
 Despite the progress made by the official Application Game Pass, <br>
 I continue to having preferences for certain aspects of my application <br>
-such as the interface, the smoothness of navigation, the overall image rendering and a better experience in Game for me.
+such as the interface, the smoothness of navigation, the overall image rendering and a better experience in Game for me.<br>
+So this App is an Alternative choice for having another experience Xbox Cloud Gaming directly in your Shield TV.
 
 
 
