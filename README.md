@@ -33,7 +33,7 @@ You can use this button Paypal for donations.
 
  #### WORLD PREMIERE !
  
- Yes i can say that, welcome to my Xcloud Beta for Android TV
+ Yes I can say that, welcome to my Xcloud Beta for Android TV
 
 
 ## CONTEXT
