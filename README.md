@@ -3,6 +3,10 @@
 [![Version](https://img.shields.io/badge/Xcloud%20Shield-V4.4-brightgreen.svg)](https://github.com/mistertest/xcloud-shield/releases/tag/version_4.4)
 
 
+
+Fix tip : https://github.com/mistertest/xcloud-shield/issues/32
+
+
 ### ABOUT ME
 **********
 
