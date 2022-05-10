@@ -271,7 +271,7 @@ Accessible from Menu
 
 Interface of Xcloud Beta in Shield TV
 
-![Xcloud_beta_home_icon](https://raw.githubusercontent.com/mistertest/devtest/master/img/Home_xcloud2.png)
+![Xcloud_beta_home_icon](https://github.com/mistertest/xcloud-shield/blob/master/img/interface_2022/xcloudbeta_20220510_154541.png)
 
 ![Xcloud_beta_home_icon](https://raw.githubusercontent.com/mistertest/devtest/master/img/Interface_xcloud1.png)
 
