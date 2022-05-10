@@ -262,7 +262,7 @@ A  demo Video of Xcloud Beta app, running and captured in my shield tv 20019:
 
 Accessible from Home 
 
-![Xcloud_beta_home_icon](https://github.com/mistertest/xcloud-shield/blob/master/img/xcloud_new_banner_app.png)
+![Xcloud Icon](https://github.com/mistertest/xcloud-shield/blob/master/img/xcloud_new_banner_app.png)
 
 Accessible from Menu
 
@@ -278,6 +278,10 @@ Interface of Xcloud Beta in Shield TV - Version 2022
 ![Xcloud interface3](https://github.com/mistertest/xcloud-shield/blob/master/img/interface_2022/xcloudbeta_20220510_155926.png)
 
 ![Xcloud interface4](https://github.com/mistertest/xcloud-shield/blob/master/img/interface_2022/xcloudbeta_20220510_155936.png)
+
+![Xcloud interface5](https://github.com/mistertest/xcloud-shield/blob/master/img/interface_2022/xcloudbeta_20220510_160544.png)
+
+
 
 
 The loading before playing in the cloud
