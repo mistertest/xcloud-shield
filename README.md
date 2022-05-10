@@ -293,6 +293,10 @@ Click and play your favorites xbox games directly on your tv with the Shield TV
 
 ![Xcloud gameplay1](https://github.com/mistertest/xcloud-shield/blob/master/img/interface_2022/xcloudbeta_20220510_160237.png)
 
+![Xcloud gameplay2](https://github.com/mistertest/xcloud-shield/blob/master/img/interface_2022/xcloudbeta_20220510_160445.png)
+
+
+
 
 
 
