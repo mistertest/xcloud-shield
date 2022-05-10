@@ -291,7 +291,7 @@ The loading before playing in the cloud
 
 Click and play your favorites xbox games directly on your tv with the Shield TV
 
-![Xcloud_beta_home_icon](https://raw.githubusercontent.com/mistertest/devtest/master/img/in_Game1.png)
+![Xcloud gameplay1](https://raw.githubusercontent.com/mistertest/devtest/master/img/in_Game1.png)
 
 
 
