@@ -286,7 +286,7 @@ Interface of Xcloud Beta in Shield TV - Version 2022
 
 The loading before playing in the cloud
 
-![Xcloud_Loading1](https://raw.githubusercontent.com/mistertest/devtest/master/img/Xcloud_loading.png)
+![Xcloud_Loading1](https://github.com/mistertest/xcloud-shield/blob/master/img/interface_2022/xcloudbeta_20220510_160002.png)
 
 ![Xcloud_Loading2](https://github.com/mistertest/xcloud-shield/blob/master/img/interface_2022/xcloudbeta_20220510_160014.png)
 
