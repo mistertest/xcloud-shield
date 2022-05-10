@@ -266,10 +266,10 @@ Accessible from Home
 
 Accessible from Menu
 
-![Xcloud_beta_home_icon](https://github.com/mistertest/xcloud-shield/blob/master/img/xcloud_new_banner_home.png)
+![Xcloud_Menu](https://github.com/mistertest/xcloud-shield/blob/master/img/xcloud_new_banner_home.png)
 
 
-Interface of Xcloud Beta in Shield TV
+Interface of Xcloud Beta in Shield TV - Version 2022
 
 ![Xcloud interface1](https://github.com/mistertest/xcloud-shield/blob/master/img/interface_2022/xcloudbeta_20220510_154541.png)
 
