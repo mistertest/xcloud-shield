@@ -8,6 +8,9 @@
 
 Fix Tip : https://github.com/mistertest/xcloud-shield/issues/32
 
+Now For launching Games Without issues (Audio/Video synch, latency, crash), you'll have to make a long press on "button A"  when the Big "Xbox logo" appear till you see the game interface. 
+
+
 
 ### ABOUT ME
 **********
