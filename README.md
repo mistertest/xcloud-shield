@@ -4,7 +4,7 @@
 
 
 
-### FIX NEWS
+### NEW FIX TIP
 
 Fix Tip : https://github.com/mistertest/xcloud-shield/issues/32
 
