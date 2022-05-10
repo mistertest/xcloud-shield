@@ -271,17 +271,18 @@ Accessible from Menu
 
 Interface of Xcloud Beta in Shield TV
 
-![Xcloud_beta_home_icon](https://github.com/mistertest/xcloud-shield/blob/master/img/interface_2022/xcloudbeta_20220510_154541.png)
+![Xcloud interface1](https://github.com/mistertest/xcloud-shield/blob/master/img/interface_2022/xcloudbeta_20220510_154541.png)
 
-![Xcloud_beta_home_icon](https://raw.githubusercontent.com/mistertest/devtest/master/img/Interface_xcloud1.png)
+![Xcloud interface2](https://github.com/mistertest/xcloud-shield/blob/master/img/interface_2022/xcloudbeta_20220510_155854.png)
 
-![Xcloud_beta_home_icon](https://raw.githubusercontent.com/mistertest/devtest/master/img/Interface2.png)
+![Xcloud interface3](https://github.com/mistertest/xcloud-shield/blob/master/img/interface_2022/xcloudbeta_20220510_155926.png)
 
-![Xcloud_beta_home_icon](https://raw.githubusercontent.com/mistertest/devtest/master/img/interface3.png)
+![Xcloud interface4](https://github.com/mistertest/xcloud-shield/blob/master/img/interface_2022/xcloudbeta_20220510_155936.png)
+
 
 The loading before playing in the cloud
 
-![Xcloud_beta_home_icon](https://raw.githubusercontent.com/mistertest/devtest/master/img/Xcloud_loading.png)
+![Xcloud_Loading](https://raw.githubusercontent.com/mistertest/devtest/master/img/Xcloud_loading.png)
 
 
 Click and play your favorites xbox games directly on your tv with the Shield TV
