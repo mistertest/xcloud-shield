@@ -1,3 +1,0 @@
-/*TEST JAVA*/
-
-test class
